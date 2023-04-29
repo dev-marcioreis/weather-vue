@@ -12,3 +12,18 @@
     list-style: none;
     font-family: 'Poppins', sans-serif;
 }
+
+/*==========App==========*/
+#app {
+    background-image: url('./assets/cold.jpg');
+    background-size: cover;
+    background-position: bottom;
+    transition: .4s;
+}
+
+/*==========Main==========*/
+main {
+    min-height: 100vh;
+    padding: 25px;
+    background-image: linear-gradient(to bottom, hsla(0, 0%, 0%, 0.25), hsla(0, 0%, 0%, 0));
+}
