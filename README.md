@@ -16,4 +16,4 @@ Márcio Reis
 😊 Link de acesso: https://dev-marcioreis.github.io/weather-vue/
 
 ---
-![image](https://user-images.githubusercontent.com/122680054/235307629-f6f7afcb-34af-45ce-b3b7-253164019784.png)
+![image](https://user-images.githubusercontent.com/122680054/235308709-0fa1a1aa-307e-4edc-b6a3-ec66382091ee.png)
