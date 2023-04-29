@@ -1,7 +1,19 @@
-# Vue 3 + Vite
+### Weather
 
-This template should help get you started developing with Vue 3 in Vite. The template uses Vue 3 `<script setup>` SFCs, check out the [script setup docs](https://v3.vuejs.org/api/sfc-script-setup.html#sfc-script-setup) to learn more.
+---
 
-## Recommended IDE Setup
+Este projeto é uma forma rápida de verificar o clima de sua cidade.<br>
+Só terá versão para celular.
 
-- [VS Code](https://code.visualstudio.com/) + [Volar](https://marketplace.visualstudio.com/items?itemName=Vue.volar) (and disable Vetur) + [TypeScript Vue Plugin (Volar)](https://marketplace.visualstudio.com/items?itemName=Vue.vscode-typescript-vue-plugin).
+## 🚀 Em desenvolvimento...
+
+## 📋 Tecnologias
+VueJS + Vite + API
+
+## ✒️ Autor
+Márcio Reis
+
+😊 Link de acesso: 
+
+---
+![image](https://user-images.githubusercontent.com/122680054/235305993-2bd56be4-e831-45d1-aa48-bd854dd2b18e.png)
