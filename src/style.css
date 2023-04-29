@@ -20,6 +20,9 @@
     background-position: bottom;
     transition: all .4s ease-in-out;
 }
+#app.warm {
+    background-image: url('./assets/warm.jpg');
+}
 
 /*==========Main==========*/
 main {
