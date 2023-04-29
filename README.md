@@ -17,5 +17,5 @@ Márcio Reis
 
 ---
 ![image](https://user-images.githubusercontent.com/122680054/235311507-8fb88b49-2202-4dcc-bb00-c6b01c6c7dbd.png)
-![image](https://user-images.githubusercontent.com/122680054/235311479-ea3d6994-5aa0-48c8-a383-c3babb15733c.png)
+![image](https://user-images.githubusercontent.com/122680054/235311594-0a998815-071d-4b03-9bdb-1d47b80e6f8b.png)
 
