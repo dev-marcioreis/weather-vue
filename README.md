@@ -5,7 +5,7 @@
 Uma forma rápida de verificar o clima de sua cidade.<br>
 Só terá versão para celular.
 
-## 🚀 Finalizado.
+## 🚀 Finalizado!
 
 ## 📋 Tecnologias
 VueJS + Vite + API
